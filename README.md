@@ -1,4 +1,12 @@
-# AnyVersion - Android App 版本自动更新库
+# [DEPRECATED]
+
+注意，此项目已经升级为公司项目，详细参见：[https://github.com/parkingwang/next-version-android](https://github.com/parkingwang/next-version-android)
+
+注意，此项目已经升级为公司项目，详细参见：[https://github.com/parkingwang/next-version-android](https://github.com/parkingwang/next-version-android)
+
+注意，此项目已经升级为公司项目，详细参见：[https://github.com/parkingwang/next-version-android](https://github.com/parkingwang/next-version-android)
+
+## AnyVersion - Android App 版本自动更新库
 
 Android App 版本更新提示库 - An Android APP new version update library.
 
